@@ -82,7 +82,7 @@
       </div>
     <% } %>
     <div class="jumbotron">
-      <h1>Ancestry Demo!s</h1>
+      <h1>Ancestry Demo!</h1>
       <p><i>Why can't your canine companion be classy too?</i></p>
     </div>
     <div class="page-header">
